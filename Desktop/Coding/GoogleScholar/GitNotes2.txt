@@ -5,3 +5,9 @@ repositories:
 git init (initializes a git repository)
 
 git status (which files have changed since last commit)
+
+How is the staging area different from the working directory and the repository? What value do you think it offers? 
+
+The staging area is where you collect the files that you want to move to your commit in the repository. The working directory is where you can find your commits after making the commit. 
+
+
