@@ -1,0 +1,64 @@
+
+Use -u to find the differences between two different files. 
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The differences were shown clearly between the two texts such that it was simple to compare and contrast. 
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I would be able to see what I've changed from one text file to another text file very quickly, find mistakes and/or view the consequences of changing lines of code. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manual pros: You know when you are at a good stopping point and can save a version of your code that makes sense
+    Manual cons: You forget to commit changes
+    Automatic pros: You won't lose versions of your code if you forget to commit    Automatic cons: You might have more versions than you need, especially if you're working on a huge chunk of change? 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Multiple files: you might have added changes to multiple files in one go
+    Unique/Single files: you might not want to save everything at once? it seems that with multiple files it should allow you to choose which files you want to save. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    The git log shows the time/author. The git diff shows the actual differences in the code. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You will be more confident in breaking something because you will have a backup version of the code that worked before you added the changes. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use Git for my Google Scholar projects. 
+
+How could having easy access to the netire history of a file make you a more efficient programmer in the long term? 
+
+    Well, I would be able to have periodically different versions of my code, so I would be able to learn from my mistakes, make comments on the different versions and quickly access the differences in my coding projects. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros of manually committing is that you have commits at more logical times whereas having an automatic commit will save your document/code at intervals rather than at logical stops. The cons of manually committing is that you may forget to commit after a logical stop and commit too much at once.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+So the benefits of using one commit for multiple files is that one commit for multiple files may be related to one issue. Others treat each file separately because the commits may be for different purposes across different files. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log is what you use to look at the descriptions of the different commits
+git diff is what you use to compare two files
+
+How might using version control make you more confident to make changes that could break something?
+
+So version control is very useful because of the tools log, diff, and checkout, which allows me to 1) see the changes I've made 2) compare two different versions at different times of the same document 3) see the result of different versions of the same document. It'll allow me to take greater risks and change large chunks of code without having to worry about losing a version of previous code that might have worked. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git for my Google Scholarship! 

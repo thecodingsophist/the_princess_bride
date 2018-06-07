@@ -1,0 +1,7 @@
+ls -a : you see hidden files
+
+repositories: 
+
+git init (initializes a git repository)
+
+git status (which files have changed since last commit)
